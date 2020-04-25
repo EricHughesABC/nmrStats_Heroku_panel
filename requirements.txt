@@ -1,0 +1,7 @@
+param
+panel
+matplotlib
+seaborn
+pandas
+jupyter
+notebook
