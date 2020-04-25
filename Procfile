@@ -1,1 +1,1 @@
-web: panel serve --address="0.0.0.0" --port=$PORT nmrStatsPanel.ipynb --allow-websocket-origin=nmrStatsPanel-eh.herokuapp.com
+web: panel serve --address="0.0.0.0" --port=$PORT nmrStatsPanel.ipynb --allow-websocket-origin=nmrstatspanel-eh.herokuapp.com
