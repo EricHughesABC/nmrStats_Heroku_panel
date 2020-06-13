@@ -1,5 +1,5 @@
 param
-panel
+panel=0.9.5
 matplotlib
 seaborn
 pandas

@@ -139,7 +139,12 @@ cython_debug/
 
 # excel files
 *.xlsx
+*.xls
 
 # html files
 *.htm
 *.html
+*.hml
+
+# zip data files
+*.zip
